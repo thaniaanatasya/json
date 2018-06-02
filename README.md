@@ -1,6 +1,6 @@
 sms bomber https://sharechat.com/signin
 
-edit Line 2 phone":"6287714070299 
+edit sharechat.php Line 2 phone":"6287714070299 
 ganti sama nomor mu ingat harus di awali 62
 kemudian upload ke cpanel
 domain.com/sharechat.php kemudian pasang 
